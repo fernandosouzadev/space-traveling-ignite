@@ -66,3 +66,5 @@ Create a <a href="https://github.com/fernandosouzadev/space-traveling-ignite/iss
 - Commit your changes: `git commit -m 'feat: My new feature'`;
 - Push to your branch: `git push origin my-feature`.
 
+
+<p align="center">Made with 💜 by Fernando Souza</p>
